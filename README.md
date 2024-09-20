@@ -72,4 +72,6 @@ You can compile, upload, test and clean the source code all from the button in t
 
 ## Example Images
 
-Coming soon!
+<img width="400" alt="Screenshot 2024-09-20 at 9 49 35 AM" src="https://github.com/user-attachments/assets/711c80a1-f853-4604-9fa1-6302e0704171">
+<img width="366" alt="Screenshot 2024-09-20 at 9 49 47 AM" src="https://github.com/user-attachments/assets/d8869861-f87a-470e-9a52-5297acf98cb0">
+
